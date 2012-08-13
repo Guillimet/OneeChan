@@ -12,6 +12,7 @@ v4.1.1:
 [Post-Update]
 ahodesuka:
   -Fix announcement color
+-Fix size of hide thread button in Opera
 
 v4.1.0:
 -Fix hidden mascots being selected with Select All
